@@ -17,7 +17,7 @@
 
     <div id="sed" class="servicesDiv">
         <section class="services">
-            <a class="servicesLink" href="">
+            <a class="servicesLink" href="milkman-service.jsp">
                 <div class="service">
                     <img src="images/services/milkman.png" height="200px" width="220px" alt="Milkman">
                     <div class="service-content">
@@ -30,7 +30,7 @@
                 </div>
             </a>
 
-            <a class="servicesLink" href="">
+            <a class="servicesLink" href="water-supplier-service.jsp">
                 <div class="service">
                     <img src="images/services/water-supplier.png" height="200px" width="220px" alt="Water Supplier">
                     <div class="service-content">
@@ -45,7 +45,7 @@
                 </div>
             </a>
 
-            <a class="servicesLink" href=""></a>
+            <a class="servicesLink" href="electrician-service.jsp">
             <div class="service">
                 <img src="images/services/electrician.png" alt="Water Supplier">
                 <div class="service-content">
@@ -56,7 +56,8 @@
                         wiring, lighting, or electrical upgrades, we've got you covered.</p>
                 </div>
             </div>
-            <a class="servicesLink" href="">
+            </a>
+            <a class="servicesLink" href="plumber-service.jsp">
                 <div class="service">
                     <img src="images/services/plumber.png" alt="Plumber">
                     <div class="service-content">
@@ -75,7 +76,7 @@
             </a>
 
 
-            <a class="servicesLink" href="">
+            <a class="servicesLink" href="food-maker-service.jsp">
                 <div class="service">
                     <img src="images/services/food-maker.png" alt="Food Maker">
                     <div class="service-content">
@@ -91,7 +92,7 @@
                 </div>
             </a>
 
-            <a class="servicesLink" href="">
+            <a class="servicesLink" href="house-cleaner-service.jsp">
                 <div class="service">
                     <img src="images/services/house-cleaner.png" height="200px" width="220px" alt="House Cleaner">
                     <div class="service-content">

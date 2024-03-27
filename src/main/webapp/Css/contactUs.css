@@ -11,6 +11,7 @@ body {
     justify-content: space-evenly;
     align-items: stretch;
     padding: 20px;
+    margin:50px auto;
 }
 
 .query-form {
@@ -88,7 +89,7 @@ button {
 }
 
 button:hover {
-    background-color: navy;
+    background-color: white;
     cursor: pointer;
 }
 
